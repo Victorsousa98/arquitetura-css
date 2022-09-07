@@ -7,3 +7,5 @@ Organizar e estruturar os arquivos css do projeto.
 Metodologia Atomic Design.
 Padrão para nomear as classes de CSS.
 Metodologia BEM.
+Separação de responsabilidades.
+Criar e manter arquivos menores.
